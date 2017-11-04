@@ -22,15 +22,15 @@ Now I wanted to attach a domain name that I had received from Namecheap via the 
 
 #### Great AWS Resources
 
-* [30 Minute Intro to Basic AWS Services](https://www.youtube.com/watch?v=ubCNZRNjhyo)
+[30 Minute Intro to Basic AWS Services](https://www.youtube.com/watch?v=ubCNZRNjhyo)
 
-* [A Beginner's Course I wish I would've started with (Costs $$)]("https://www.udemy.com/learn-aws-the-hard-way/")
+[A Beginner's Course I wish I would've started with (Costs $$)]("https://www.udemy.com/learn-aws-the-hard-way/")
 
-* [Good explanation of EC2s]("https://www.youtube.com/watch?v=lZMkgOMYYIg")
+[Good explanation of EC2s]("https://www.youtube.com/watch?v=lZMkgOMYYIg")
 
-* [HackerNoon Nodejs AWS tutorial]("https://hackernoon.com/tutorial-creating-and-managing-a-node-js-server-on-aws-part-1-d67367ac5171")
+[HackerNoon Nodejs AWS tutorial]("https://hackernoon.com/tutorial-creating-and-managing-a-node-js-server-on-aws-part-1-d67367ac5171")
 
-* [EC2 vs Elastic Beanstalk]("https://stackoverflow.com/questions/25956193/difference-between-amazon-ec2-and-aws-elastic-beanstalk")
+[EC2 vs Elastic Beanstalk]("https://stackoverflow.com/questions/25956193/difference-between-amazon-ec2-and-aws-elastic-beanstalk")
 
 Other Preparation I Need (Q2 & Q3)
 ------
@@ -41,8 +41,8 @@ Other Preparation I Need (Q2 & Q3)
 Proof
 ------
 
-* I learned how to use AWS to host an Angular application. I expect to use my new knowledge to build out and host my portfolio. This will be something I can present a future employer with confidence.
+I learned how to use AWS to host an Angular application. I expect to use my new knowledge to build out and host my portfolio. This will be something I can present a future employer with confidence.
 
-* I started searching the web for resources regarding interviewer's [expectations]("https://www.reddit.com/r/webdev/comments/5wqbxy/junior_front_end_dev_interview/") for junior developers and [tips]("https://www.reddit.com/r/cscareerquestions/comments/6g589z/junior_software_developer_interview_tips_please/") on how to succeed.
+I started searching the web for resources regarding interviewer's [expectations]("https://www.reddit.com/r/webdev/comments/5wqbxy/junior_front_end_dev_interview/") for junior developers and [tips]("https://www.reddit.com/r/cscareerquestions/comments/6g589z/junior_software_developer_interview_tips_please/") on how to succeed.
 
-* [EC2 Angular App]("ec2-34-211-238-146.us-west-2.compute.amazonaws.com") and hopefully a link after 24-48 hours [dawsonmortenson.me]("http://www.dawsonmortenson.me")
+[EC2 Angular App]("ec2-34-211-238-146.us-west-2.compute.amazonaws.com") and hopefully a link after 24-48 hours [dawsonmortenson.me]("http://www.dawsonmortenson.me")
