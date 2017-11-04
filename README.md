@@ -26,3 +26,17 @@ Now I wanted to attach the domain name that I had received from Namecheap via th
 * [A Beginner's Course I wish I would've started with (Costs $$)]("https://www.udemy.com/learn-aws-the-hard-way/")
 * [Good explanation of EC2s]("https://www.youtube.com/watch?v=lZMkgOMYYIg")
 * [HackerNoon Nodejs AWS tutorial]("https://hackernoon.com/tutorial-creating-and-managing-a-node-js-server-on-aws-part-1-d67367ac5171")
+* [EC2 vs Elastic Beanstalk]("https://stackoverflow.com/questions/25956193/difference-between-amazon-ec2-and-aws-elastic-beanstalk")
+
+Other Preparation I Need (Q2 & Q3)
+------
+
+* A better portfolio of polished projects. I have a bad habit of not going back and working on old projects because the new ones are usually much more interesting. I feel like my portfolio has few projects I would be proud to show off to a potential employer.
+* I feel unprepared for a developer interview. I have had many interviews in the past and they've always gone well, but this type of interview feels like it will be a lot different and I'm not sure how to prepare myself to fit the expectations of the interviewer.
+
+Proof
+------
+
+* I learned how to use AWS to host an Angular application. I expect to use my new knowledge to build out and host my portfolio. This will be something I can present a future employer with confidence.
+
+* I started searching the web for resources regarding interviewer's [expectations]("https://www.reddit.com/r/webdev/comments/5wqbxy/junior_front_end_dev_interview/") for junior developers and [tips]("https://www.reddit.com/r/cscareerquestions/comments/6g589z/junior_software_developer_interview_tips_please/") on how to succeed.
